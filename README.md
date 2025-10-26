@@ -1,4 +1,4 @@
-Classificador de Nível de Herói 🦸‍♂️
+Classificador de Nível de Herói 
 
 Descrição:
 Este projeto foi desenvolvido para praticar lógica de programação, trabalhando com variáveis, operadores, laços de repetição e estruturas de decisão. Ele classifica heróis com base na quantidade de experiência (XP) informada pelo usuário.
@@ -29,3 +29,4 @@ Exemplo de uso:
 Nome do Herói: Bruxa Sombria
 XP: 11000
 Resultado: O Herói de nome Bruxa sombria  está no nível de Radiante
+ Visitem como ficou o peojeto: https://sanchessb.github.io/Hallowen/
